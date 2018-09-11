@@ -1,10 +1,9 @@
 # Competitive Programming
 
-This repository focus on keep every program I make to training to competitive programming. Each platform is separated on folders.
-
 ## Plataforms
 
 - [GeeksForGeeks](http://www.geeksforgeeks.org)
+- [Codeforces](https://codeforces.com)
 
 ## Topics
 
